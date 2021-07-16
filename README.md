@@ -2,7 +2,7 @@
 
 <h4><strong>About Me</strong></h4>
 <ul>
-<li>💻 I am currently a second year Electrical Engineering major and a Computer Science Minor at Ryerson University</li>
+<li>💻 I am currently a third year Electrical Engineering major and a Computer Science minor at Ryerson University</li>
 <li>💡 I am currently exploring the fields of machine learning and deep learning</li>
 <li>💬 Ask me about collaborations for web/app development projects</li>
 </ul>
