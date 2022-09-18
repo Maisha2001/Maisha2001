@@ -52,12 +52,12 @@
 ## Let's Connect!
 
 <a href="mailto:maisha.aniqa@yahoo.com">
-  <img align="left" alt="Email" src="https://img.icons8.com/nolan/50/new-post.png" />
+  <img align="left" alt="Email" src="https://img.icons8.com/nolan/35/new-post.png" />
 </a>
 <a href="https://www.linkedin.com/in/maisha-aniqa/">
-  <img align="left" alt="LinkedIn" src="https://img.icons8.com/nolan/50/linkedin.png" />
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/nolan/35/linkedin.png" />
 </a>
 <a href="https://twitter.com/MaishaAniqa">
-  <img align="left" alt="Twitter" src="https://img.icons8.com/nolan/50/twitter.png" />
+  <img align="left" alt="Twitter" src="https://img.icons8.com/nolan/35/twitter.png" />
 </a>
 
