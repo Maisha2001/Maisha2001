@@ -51,7 +51,7 @@
 
 ## Let's Connect!
 
-<a href="mailto:maisha.aniqa@yahoo.com title="Email">
+<a href="mailto:maisha.aniqa@yahoo.com" title="Email">
   <img align="left" alt="Email" src="https://img.icons8.com/nolan/35/new-post.png" />
 </a>
 <a href="https://www.linkedin.com/in/maisha-aniqa/" title="LinkedIn">
