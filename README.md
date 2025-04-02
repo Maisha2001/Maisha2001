@@ -6,9 +6,9 @@
 <br/>
 
 ## About Me
-- 💻 I'm an Electrical Engineering student at Toronto Metropolitan University.
-- 👩‍💻 I'm currently working as a Systems Engineer Intern at Synopsys.
-- ⚡ My passions include Software Development, Data Science, and Machine Learning. 
+- 💻 Software Engineer with 2+ years of experience
+- 🎓 Engineering graduate from Toronto Metropolitan University
+- ⚡ Expertise: Full Stack Development, Distributed System Design, Software Architecture, and Machine Learning
 
 ## Technical Skills
 
