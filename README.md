@@ -84,14 +84,10 @@
 
 ## 🤝 Let’s Connect!
 
-<p align="center">
-  <a href="mailto:maisha.aniqa@yahoo.com" title="Email">
-    <img src="assets/icons/email.svg" height="32" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maisha-aniqa/" title="LinkedIn">
-    <img src="assets/icons/linkedin.svg" height="32" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/MaishaAniqa" title="X (Twitter)">
-    <img src="assets/icons/x.svg" height="32" alt="X (Twitter)"/>
-  </a>
+<p>
+  <a href="mailto:maisha.aniqa@yahoo.com" title="Email"><img src="assets/icons/email.svg" height="40" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maisha-aniqa/" title="LinkedIn"><img src="assets/icons/linkedin.svg" height="36" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/MaishaAniqa" title="X (Twitter)"><img src="assets/icons/x.svg" height="36" alt="X (Twitter)"></a>
 </p>
